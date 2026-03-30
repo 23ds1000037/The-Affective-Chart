@@ -1,0 +1,8 @@
+{
+  "prompt": "A vast crowd of human figures seen from slightly above, packed densely across the entire frame like a city square at rush hour. The figures are diverse in age, skin tone, and dress — ordinary people, not symbols. But three out of every four figures are barely there: translucent, half-formed, dissolving into the warm amber background light like smoke or breath in cold air. Only one figure in four is fully solid and present. The solid figures are not special — they stand the same as the others, just visible. The dissolving figures are not dead or falling — they simply are not fully here. No text, no labels, no charts, no icons, no broken imagery. The mood is not horror — it is a quiet, unbearable fact. Photorealistic painterly style, warm dusk lighting, golden and muted ochre tones, shallow depth of field pulling focus to the middle crowd. Shot as if by a photojournalist who stumbled on something too large to explain. Negative: No brain imagery, no cracks, no puzzle pieces, no medical symbols, no lone figure, no darkness, no blue tones, no infographic elements, no text.",
+  "model": "DALL·E 3",
+  "dataset_name": "WHO Mental Health Atlas 2021",
+  "dataset_url": "https://www.who.int/publications/i/item/9789240049320",
+  "insight": "Over 75% of people with mental illness in low-income countries receive no treatment, because governments spend less than $2 per person per year on mental health care.",
+  "publish_email": true
+}
