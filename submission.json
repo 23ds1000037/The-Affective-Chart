@@ -1,0 +1,8 @@
+{
+  "prompt": "Perfectly flat top-down aerial view, looking straight down at a large rectangular grid of small human figures arranged in precise rows and columns like a census chart — at least 200 figures visible. Each figure is a simple but distinct human silhouette seen from above. Exactly one in every four figures is solid, warm, fully rendered in soft ochre and terracotta skin tones. The remaining three out of four figures in the grid are completely invisible — their position in the grid is marked only by a faint chalk-white outline on a deep charcoal background, an empty slot where a person should stand. No movement. No walking. No landscape. No horizon. No light beams. The entire image is the grid. The three empty outlines next to every one solid figure carry all the meaning. Flat even lighting from above. The mood is not dramatic — it is arithmetically devastating. No text, no labels, no axes, no legends, no medical symbols, no broken imagery, no charts.",
+  "model": "DALL·E 3",
+  "dataset_name": "WHO Mental Health Atlas 2021",
+  "dataset_url": "https://www.who.int/publications/i/item/9789240049320",
+  "insight": "Over 75% of people with mental illness in low-income countries receive no treatment, because governments spend less than $2 per person per year on mental health care.",
+  "publish_email": true
+}
